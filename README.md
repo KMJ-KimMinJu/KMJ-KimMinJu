@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=minju'sgithub&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ლ(╹◡╹ლ)&fontSize=30)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=KMJ-KimMinJu)](https://github.com/KMJ-KimMinJu)
 
